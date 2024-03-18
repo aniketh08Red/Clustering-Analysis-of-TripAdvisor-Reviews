@@ -16,7 +16,7 @@ This project focuses on performing a comprehensive analysis of TripAdvisor revie
 Clone the GitHub repository:
 
 ```bash
-  git clone https://github.com/yourusername/tripadvisor-data-analysis.git
+  https://github.com/aniketh08Red/Clustering-Analysis-of-TripAdvisor-Reviews/blob/f1a679ca6b54f267e655649166731fd180131659/TripAdvisor%20Code.ipynb
 ```
 
 Install the required dependencies:
@@ -28,7 +28,7 @@ Install the required dependencies:
 Execute the project code:
 
 ```bash
-  python main.py
+  python TripAdvisor Code.py
 ```
 
 
@@ -43,7 +43,7 @@ Execute the project code:
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[Report](https://github.com/aniketh08Red/Clustering-Analysis-of-TripAdvisor-Reviews/blob/main/ADVPYTHON_report.docx)
 
 
 # Acknowledgments
